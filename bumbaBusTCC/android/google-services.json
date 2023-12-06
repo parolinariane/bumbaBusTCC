@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111609261912",
+    "project_id": "bumbabus-auth",
+    "storage_bucket": "bumbabus-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111609261912:android:dd64dacec99d7796c4bf2d",
+        "android_client_info": {
+          "package_name": "com.reactnativebumbabustcc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY1bTqaXpnBOqIY6SkGu8C4BFbDvTI13g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
